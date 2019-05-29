@@ -1,0 +1,83 @@
+
+
+body {
+  background: url("background.jpg");
+  font-family: 'Sarabun', sans-serif;
+}
+
+.app{
+   width: 100%;
+   margin-top : 3%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+
+form{
+  width: 300px;
+  margin-top : 200px;
+  padding : 20px;
+  border-radius : 2%;
+  box-shadow: 0px 0px 5px black;
+  background-color: white;
+  position: relative;
+  left : 13px;
+}
+
+label{
+  font-size : 13px;
+  font-weight: bold;
+}
+
+.form-control{
+  border : 1px solid gray;
+  background : #F7F7F9;
+}
+
+.eventtimer{
+  width : 260px;
+  background-color : white;
+  text-align : center;
+  border-radius : 3%;
+  margin-top : 50px;
+  box-shadow: 0px 0px 5px black;
+  padding-bottom : 15px;
+}
+
+.btn-success{
+  margin-top : 10%;
+}
+
+@media only screen and (max-width: 900px) {
+  .eventtimer{
+    position : relative;
+    left : 3%;
+  }
+
+  .addbtn{
+    position : relative;
+    left : 3%;
+  }
+}
+
+@media only screen and (min-width : 600px){
+ .rb{
+   border-right: 1px solid gray;
+ } 
+}
+
+.eventtimer p{
+  background-color:#286090;
+  color:white;
+  font-size:17px;
+  font-weight:bolder;
+  padding:5px;
+   height: 23%;
+}
+
+.col-9{
+  border-right: 1px solid gray;
+}
