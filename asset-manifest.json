@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/event-timer/static/css/main.95c5d4af.chunk.css",
+    "main.js": "/event-timer/static/js/main.f30dbd77.chunk.js",
+    "main.js.map": "/event-timer/static/js/main.f30dbd77.chunk.js.map",
+    "runtime~main.js": "/event-timer/static/js/runtime~main.601e4307.js",
+    "runtime~main.js.map": "/event-timer/static/js/runtime~main.601e4307.js.map",
+    "static/js/2.86a2265c.chunk.js": "/event-timer/static/js/2.86a2265c.chunk.js",
+    "static/js/2.86a2265c.chunk.js.map": "/event-timer/static/js/2.86a2265c.chunk.js.map",
+    "index.html": "/event-timer/index.html",
+    "precache-manifest.a4601673fd494ed0b7c05787b30bafb3.js": "/event-timer/precache-manifest.a4601673fd494ed0b7c05787b30bafb3.js",
+    "service-worker.js": "/event-timer/service-worker.js",
+    "static/css/main.95c5d4af.chunk.css.map": "/event-timer/static/css/main.95c5d4af.chunk.css.map",
+    "static/media/index.css": "/event-timer/static/media/background.96fc4391.jpg"
+  }
+}
