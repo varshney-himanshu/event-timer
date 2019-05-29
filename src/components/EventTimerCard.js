@@ -1,6 +1,6 @@
 import React from 'react';
 
-class EventTimer extends React.Component{
+class EventTimerCard extends React.Component{
    
    constructor(){
     super();
@@ -50,4 +50,4 @@ class EventTimer extends React.Component{
 
 }
 
-export default EventTimer;
+export default EventTimerCard;
