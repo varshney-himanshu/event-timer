@@ -61,7 +61,7 @@ class EventFormCard extends React.Component{
          <label htmlFor="time">Time</label>  
          <input type="time" className="form-control form-control-sm" name="time" onChange={this.oninputchange} required/>           </div>           
       
-         <input type="submit" className="btn btn-block btn-success " value="Start Event Timer"/>
+         <input type="submit" className="btn btn-block btn-primary " value="Start Event Timer"/>
       </form>
       );
     }

@@ -49,7 +49,7 @@ class EventTimer extends React.Component {
      { 
       this.state.addEvent 
             ? <EventFormCard sendEventData = {this.receiveEventData} /> 
-            : <button className="btn btn-block btn-success addbtn" onClick={()=>{this.setState({addEvent:true})}}>Add Event</button>
+            : <button className="btn btn-block btn-dark mt-3 addbtn" onClick={()=>{this.setState({addEvent:true})}}>Add Event</button>
      
      }
     </div>
